@@ -11,9 +11,9 @@ An end-to-end analytics project analyzing US healthcare data to extract key oper
 
 Key Steps & Methodology
 Data ETL & Transformation: Cleaned, formatted, and structured raw healthcare datasets using Power Query.
-Data Summarization:** Built dynamic Pivot Tables to aggregate patient metrics, operational costs, and performance KPIs.
-Visualization:** Designed interactive Pivot Charts and graphical dashboards to highlight key healthcare trends and insights.
-Recommendations:** Delivered actionable strategies for operational efficiency and patient care optimization based on visual findings.
+Data Summarization: Built dynamic Pivot Tables to aggregate patient metrics, operational costs, and performance KPIs.
+Visualization: Designed interactive Pivot Charts and graphical dashboards to highlight key healthcare trends and insights.
+Recommendations: Delivered actionable strategies for operational efficiency and patient care optimization based on visual findings.
 
 ---
 
